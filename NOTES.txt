@@ -7,3 +7,8 @@ This cool new git thing is confusing!
 
 
 We'll talk about branches in just a second.
+
+So git is actually saving changes to the FOLDER and not to any one specific FILE.
+It stores these changes in a file called '.git'
+
+We can publish or "push" these changes to a "remote" repository.
